@@ -1,0 +1,27 @@
+
+
+.grid-outer-container {
+    margin: 10%;
+    padding: 10%;
+    background-color: red;
+    border-radius: 45px;
+}
+
+.grid-container {
+    display: grid;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+}
+
+.cell {
+    padding-top: 100%;
+}
+
+#buttons-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+  
